@@ -7,7 +7,7 @@
  */
 require_once 'Bmi.php';
 $bmi = new Bmi();
-
+//I have tried to remove this test as test
 //test
 
 ?>
