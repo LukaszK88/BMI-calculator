@@ -8,6 +8,8 @@
 require_once 'Bmi.php';
 $bmi = new Bmi();
 
+//test
+
 ?>
 <form action="" method="post">
     
